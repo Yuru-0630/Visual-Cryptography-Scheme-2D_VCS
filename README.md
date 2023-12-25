@@ -1,7 +1,7 @@
 # Visual-Cryptography-Scheme-2D_VCS
 
 
-【已發表】RG-based (_k_, _n_)-threshold Visual Cryptography with Abilities of OR and XOR Decryption
+【已發表在會議】RG-based (_k_, _n_)-threshold Visual Cryptography with Abilities of OR and XOR Decryption
 
 加密單張秘密的機密配置系統，可使用OR或者XOR運算來還原。
 
